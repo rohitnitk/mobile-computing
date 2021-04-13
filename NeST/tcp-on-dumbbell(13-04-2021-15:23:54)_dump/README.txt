@@ -10,3 +10,8 @@ and then plot this data using gnuplot.
 Note: offloads aren't disable yet. 
 Results with offloads disabled will be uploaded soon.
 
+```
+git status
+git add
+git commit
+```
