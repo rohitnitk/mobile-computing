@@ -1,0 +1,5 @@
+TcpVegas 1st Flow 1 (10.1.0.1 -> 10.2.0.1)
+Net Packet Lost: 36
+Packet Lost due to buffer overflow: 0
+Packet Lost due to Congestion: 36
+Max throughput: 8334.79
