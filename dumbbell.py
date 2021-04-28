@@ -45,7 +45,7 @@ right_router.enable_ip_forwarding()
 
 # Lists to store all the left and right nodes
 left_nodes = []
-right_nodes = []
+ right_nodes = []
 
 # Creating all the left and right nodes
 for i in range(num_of_left_nodes):
